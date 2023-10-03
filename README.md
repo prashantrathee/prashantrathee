@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashant</h1>
 <h3 align="center">Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.nilebits.com/wp-content/uploads/2023/07/Happy-Developers-Successful-Projects-A-Guide-to-Enhancing-DevEx-in-Your-Team.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://www.nilebits.com/wp-content/uploads/2023/07/Happy-Developers-Successful-Projects-A-Guide-to-Enhancing-DevEx-in-Your-Team.gif"> -->
 
 
 - 🔭 I’m currently working on [Occupy](https://github.com/prashantrathee/occupy)
