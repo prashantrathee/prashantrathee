@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Occupy](https://github.com/prashantrathee/occupy)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Jetpack compose**
 
 - 💬 Ask me about **Android development, NodeJS, MongoDB, Kotlin**
 
