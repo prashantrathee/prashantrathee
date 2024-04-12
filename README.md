@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Occupy](https://github.com/prashantrathee/occupy)
 
-- 🌱 I’m currently learning **Jetpack compose**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android development, NodeJS, MongoDB, Kotlin**
+- 💬 Ask me about **Android development, NodeJS, MongoDB, Kotlin, React Native Development**
 
 - 📫 How to reach me **parshantrathee1020@gmail.com**
 
